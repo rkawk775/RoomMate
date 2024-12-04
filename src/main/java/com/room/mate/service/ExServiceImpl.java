@@ -1,8 +1,8 @@
 package com.room.mate.service;
 
-import org.springframework.beans.factory.annotation.Autowired;
+//import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.room.mate.mapper.ExMapper;
+//import com.room.mate.mapper.ExMapper;
 
 //ExService 추상메소드 implements하기, @Service 어노테이션 붙이기
 //ServiceImpl 은 DB와 백엔드를 연결시켜주는 중간 단계이다.
